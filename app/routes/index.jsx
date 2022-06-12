@@ -44,7 +44,7 @@ export default function Index() {
         </div>
       </div>
       <div className="py-20 sm:py-32 bg-white px-4 flex flex-col w-full items-center">
-        <h2 className="text-3xl font-semibold text-center mb-6">Why Dollar Cost Average?</h2>
+        <h2 className="text-3xl font-semibold text-center mb-6">Why Use a DCA Strategy?</h2>
         <div className="max-w-4xl">
           <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
             <div className="border border-neutral-200 p-6 shadow-sm rounded-md">
